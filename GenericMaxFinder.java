@@ -1,4 +1,4 @@
-public class GenericMaxFinder implements GenericMethodsInterface{
+public class GenericMaxFinder implements FindMaxInterface{
     
     public GenericMethods(){} //empty constructor
     
